@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;">  Hi 🎉 Welcome to YuYueSummer's Github Homepage!</h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
+![github_cover_banner](https://github.com/Zoishin/Zoishin/blob/main/titleImg.jpeg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack software developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming. Thus, I publish some coding tutorials on my youtube channel.
