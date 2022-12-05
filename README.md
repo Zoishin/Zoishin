@@ -23,49 +23,34 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="CPlusPlus" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="CSharp" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+        <img  alt="Lua" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+  </a>
+        <img  alt="Opengl" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
+  </a>
+      <img  alt="SDL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
+  </a>
       <img  alt="Cmake" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="Godot" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="Google" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/godot-original.svg"/>
+       <img  alt="Unity" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="Unity" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="Lua" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+      <img  alt="Vscode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img  alt="Pycharm" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img  alt="Chrome" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img  alt="Google" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-    
     
 
 
