@@ -3,7 +3,9 @@
 ![github_cover_banner](https://github.com/Zoishin/Zoishin/blob/main/titleImg.jpeg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic full stack software developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming. Thus, I publish some coding tutorials on my youtube channel.
+    I am a sophomore in Lanzhou University. I love video games and aspire to be an excellent game designer and developer.
+    I love open source applications, and I'm using godot to develop my own games.
+    I also love computer graphics and software engineering related to game engines.
 <br>
 <br>
 <div align="center">
