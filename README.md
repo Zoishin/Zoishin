@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran, AKA Programming Gym</h1>
+<h1 style="color: #44AEFB;">  Hi 🎉 Welcome to YuYueSummer's Github Homepage!</h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
 
