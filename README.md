@@ -3,12 +3,11 @@
 ![github_cover_banner](https://github.com/Zoishin/Zoishin/blob/main/titleImg.jpeg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-I am a sophomore in Lanzhou University. I love video games and aspire to be an excellent game designer and developer.
+As a sophomore at Lanzhou University, I am passionate about video games and aspire to become an excellent game designer and developer.
 <br>
-I love open source applications, and I'm using godot to develop my own games.
+I have a particular interest in open-source applications and am currently using Godot to develop my own games.
 <br>
-I also love computer graphics and software engineering related to game engines.
-<br>
+Additionally, I have a love for computer graphics and software engineering related to game engines.
 <br>
 <div align="center">
 
